@@ -1,0 +1,7 @@
+{
+    "nombre": "Sebastian Salas",
+    "edad": 20,
+    "carrera": "Ingeniería de sistemas",
+    "semestre": 6,
+    "gustos" : ["Música","Fútbol", "Gimnasio", "Viajar"]
+}
