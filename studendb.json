@@ -17,4 +17,10 @@
         "carrera": "Física",
         "semestre": 4
     }
+    "201944153": {
+        "nombre" : "Laura Murillas" , 
+        "semestre": 6 , 
+        "soltero": true , 
+        "gustos" : ['deporte', 'bailar','comer']
+    },
 }
