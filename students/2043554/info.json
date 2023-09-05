@@ -1,0 +1,7 @@
+{
+    "nombre": "Brayan Sanchez",
+    "edad": 24,
+    "carrera": "Ingenieria de sistemas",
+    "semestre": 7,
+    "gustos" : ["Programar","Leer", "Futbol", "Cine"]
+}
