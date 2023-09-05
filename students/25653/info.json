@@ -1,0 +1,7 @@
+{
+    "nombre": "Carlos Hernandez",
+    "edad": 45,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 10,
+    "gustos" : ["FIFA","Futbol", "Podcast"]
+}
